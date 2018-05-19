@@ -1,6 +1,6 @@
 # Author:
 Shiming Luo<br>
-Jingyi Yand<br>
+Jingyi Yang<br>
 
 # Introduction:
 This is a **SVM** based on MATLAB
